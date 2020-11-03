@@ -1,3 +1,3 @@
-GitHub1.0
+3D printed fence
 =========
-Hey there, this is my first try with github. If you have any questions or suggestions, feel free to send me a message!
+As part of my `Advanced Prototyping` minor programme from the faculty of Architecture and of Industrial Design (Delft University of Technology), I did quite a bit of 3D-modeling. This particular 3D-model was to be showcased / embedded on my website, the reason I made this repository.
